@@ -47,8 +47,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/SandhiyaRajagopal/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/144870852/eaf4a69b-1868-4945-b97e-4c20207203d3)
+
+### Name:SANDHIYA R
+### Register Number:212223240146
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
